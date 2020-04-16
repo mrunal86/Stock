@@ -1,0 +1,1 @@
+C:\Users\itnis\Documents\Visual Studio 2015\Projects\WPF\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
